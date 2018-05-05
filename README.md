@@ -20,7 +20,7 @@ Notify based on the response to the user.
 
 
 ### Code Snippet
-[Ruby File](final_script.rb)
+[Ruby File](final_ruby.rb)
  
 ### References
 
