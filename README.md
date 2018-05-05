@@ -17,6 +17,10 @@ Filter the courses based on the user provided course name
 If we found the courses for the user's specified requirement make a call to create the quizzes
 It will take the quiz details and make a post call to create the quizzes (/api/v1/courses/:course_id/quizzes)
 Notify based on the response to the user.
+
+
+### Code Snippet
+[Ruby File](final_script.rb)
  
 ### References
 
